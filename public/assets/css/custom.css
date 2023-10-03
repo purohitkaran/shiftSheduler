@@ -1,0 +1,22 @@
+.footer-social-item a
+{
+	font-size:20px;
+	    color: #fff;
+}
+.header-top
+{
+	padding:0px !important;
+}
+
+.logo-main img
+{
+	width:94px;
+}
+
+@media screen and (max-width: 767px)
+{
+.logo-main img
+{
+	width:65px !important;
+}	
+}

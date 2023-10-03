@@ -1,0 +1,48 @@
+.mydiv{
+    margin: 50px 50px;
+    padding: 20px 10px;
+    border: 1px solid #eff0f2;
+    border-radius: 5px;
+    background-color: #f8f9fa
+}
+
+.today{
+    border-bottom: 2px solid#009cff;
+    width: 33%;
+    color: #009cff !important;
+}
+
+.noevents{
+    background-color: #eff0f2;
+    border-radius: 20px;
+    padding: 8px 0px;
+    margin-top: 10px;
+
+}
+
+.shift{
+    background-color: #eff0f2;
+    border-radius: 20px;
+    padding: 10px 25px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.shifts{
+    border-bottom: 2px solid #009cff;
+    width: 47%;
+    color: #009cff;
+    margin-top: 15px;
+}
+
+.day{
+    background-color: #03a9f469;
+    border-radius: 20px;
+    font-weight: bold;
+    padding:10px;
+}
+
+.store{
+    background-color:  #eff0f2;
+    border-radius: 20px;
+}
